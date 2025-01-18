@@ -1,0 +1,4 @@
+client: private
+location: Kilifi, Kenya 
+project type: residential building
+progress: ongoing

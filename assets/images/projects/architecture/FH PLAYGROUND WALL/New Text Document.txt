@@ -1,0 +1,4 @@
+client: private
+location: Lang'ata, Nairobi 
+project type: renovation
+progress: ongoing

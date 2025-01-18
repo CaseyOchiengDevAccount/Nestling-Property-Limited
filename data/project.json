@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Project Alpha",
+        "description": "A brief summary of Project Alpha.",
+        "imageURL": "alpha.jpg",
+        "details": "More in-depth description of the project..."
+    },
+    {
+        "title": "Project Beta",
+        "description": "A brief summary of Project Beta.",
+        "imageURL": "beta.jpg",
+        "details": "More in-depth description of the project..."
+    }
+]

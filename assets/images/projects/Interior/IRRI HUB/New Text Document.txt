@@ -1,0 +1,4 @@
+client: irri hub
+location: kilimani, nairobi
+project type: renovation
+progress: ongoing

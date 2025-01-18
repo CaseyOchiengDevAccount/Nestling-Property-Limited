@@ -1,0 +1,4 @@
+client: rarieda
+location: Bondo, Kenya 
+project type: office fit-out
+progress: ongoing

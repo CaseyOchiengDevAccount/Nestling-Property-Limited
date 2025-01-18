@@ -1,0 +1,4 @@
+client: the kenya bankers
+location: Kakuma, turkana
+project type: renovation
+progress: ongoing

@@ -1,0 +1,4 @@
+client: the kenya bankers
+location: upper hill, nairobi 
+project type: renovation
+progress: ongoing

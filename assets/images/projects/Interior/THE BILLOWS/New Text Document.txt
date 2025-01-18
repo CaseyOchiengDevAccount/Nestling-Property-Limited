@@ -1,0 +1,4 @@
+client: the billows
+location: hurlingham, Nairobi
+project type: commercial 
+progress: ongoing

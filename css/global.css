@@ -1,0 +1,74 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Circe";
+  font-weight: normal;
+}
+
+body {
+  background: #f7f7f7;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circe {
+  font-family: "Circe";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.circe__extra__light {
+  font-family: "Circe Extra Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.circe__light {
+  font-family: "Circe Light";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.circe__bold {
+  font-family: "Circe Bold";
+  font-style: normal;
+  font-weight: normal;
+}
+
+.logo {
+  width: 60px;
+  height: 48px;
+}

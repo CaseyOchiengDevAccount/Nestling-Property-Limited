@@ -1,0 +1,4 @@
+client: canken 
+location: Eldoret international airport
+project type: industrial
+progress: ongoing

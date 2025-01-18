@@ -1,0 +1,4 @@
+client: private
+location: Kikuyu, Kiambu
+project type: residential building
+progress: ongoing

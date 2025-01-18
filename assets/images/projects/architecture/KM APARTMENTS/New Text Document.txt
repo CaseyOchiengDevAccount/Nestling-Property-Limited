@@ -1,0 +1,4 @@
+client: private
+location: Gikambura, Kiambu
+project type: residential apartments
+progress: ongoing

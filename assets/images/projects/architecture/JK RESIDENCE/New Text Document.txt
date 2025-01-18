@@ -1,0 +1,4 @@
+client: private
+location: ruai, nairobi 
+project type: residential building
+progress: ongoing

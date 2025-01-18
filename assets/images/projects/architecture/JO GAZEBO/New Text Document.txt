@@ -1,0 +1,4 @@
+client: private
+location: Kisumu, Kenya 
+project type: residential
+progress: ongoing

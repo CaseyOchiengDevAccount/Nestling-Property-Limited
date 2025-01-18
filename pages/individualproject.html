@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="manifest" href="../assets/favicon_io/site.webmanifest">
+  <link rel="shortcut icon" href="../assets/favicon_io/favicon.ico" type="image/x-icon">
+  <link rel="mask-icon" href="../assets/favicon_io/apple-touch-icon.png" color="#000000">
+  <link rel="apple-touch-icon" sizes="180x180" href="../assets/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon_io/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#000">
+  <link rel="stylesheet" href="../css/global.css">
+  <link rel="stylesheet" href="../assets/fonts/style.css">
+  <link rel="stylesheet" href="../css/individual.css" />
+  <title>Giv architecture Studio</title>
+</head>
+
+<body>
+  <section class="main image-container">
+
+    <img class="main__image" src="../assets/images/slides/1.jpg" alt="">
+    <nav class="main__nav">
+
+      <a href="../index.html">
+        <img class="logo" src="../assets/images/icons/giv logo white.png" alt="">
+      </a>
+
+      <button class="main__hamburger-btn">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </button>
+
+      <ul class="main__list center">
+        <li><a class="hover" href="./index.html">Home</a></li>
+        <li><a class="hover" href="./pages/projects.html">Project</a></li>
+        <li><a class="hover" href="./pages/aboutUs.html">About</a></li>
+        <li><a class="hover" href="./pages/contacts.html">Contact</a></li>
+      </ul>
+
+    </nav>
+    <section class="main__content">
+      <div id="staggeredText" class="title">Native House</div>
+      <div class="detail">View Project</div>
+    </section>
+
+    <section class="main__footer">
+      <ul class="main__footer-socials">
+        <li>
+          <!--whatsapp: https://wa.link/rg857w -->
+          Facebook
+        </li>
+        <li>
+          <!--Instagram: https://www.instagram.com/giv_architecture_studio?igsh=Yjl6bjRlYmhsZDN6 -->
+          Facebook
+        </li>
+        <li>
+          <!-- Youtube: https://www.youtube.com/@emmanuelgichana4503/videos -->
+          Facebook
+        </li>
+      </ul>
+      <ul class="main__footer-buttons">
+        <li><button class="hover-line">01</button>
+          <div class="progress-bar"></div>
+        </li>
+        <li><button class="hover-line">02</button>
+          <div class="progress-bar"></div>
+        </li>
+        <li><button class="hover-line">03</button>
+          <div class="progress-bar"></div>
+        </li>
+      </ul>Casey is the best
+    </section>
+
+  </section>
+
+  <section class="about">
+    <div class="about__name circe__bold fade-in">
+      <p>
+        <span>A</span>
+        <span>B</span>
+        <span>O</span>
+        <span>U</span>
+        <span>T</span>
+      </p>
+    </div>
+    <div class="about__section">
+      <div class="card">
+        <img class="card__svg" src="../assets/images/icons/about_icons/location.png" alt="">
+        <div>
+          <span class="card__title">Location</span>
+          <span class="card__text circe__extra__light">Madeira,Portugal</span>
+        </div>
+      </div>
+      <div class="card">
+        <img class="card__svg" src="../assets/images/icons/about_icons/pencil.png" alt="">
+        <div>
+          <span class="card__title">Square Metres:</span>
+          <span class="card__text circe__extra__light">Madeira,Portugal</span>
+        </div>
+      </div>
+      <div class="card">
+        <img class="card__svg" src="../assets/images/icons/about_icons/calendar.png" alt="">
+        <div>
+          <span class="card__title">Date:</span>
+          <span class="card__text circe__extra__light">Madeira,Portugal</span>
+        </div>
+      </div>
+      <div class="card">
+        <img class="card__svg" src="../assets/images/icons/about_icons/location.png" alt="">
+        <div>
+          <span class="card__title">Team</span>
+          <span class="card__text circe__extra__light">Madeira,Portugal</span>
+        </div>
+      </div>
+    </div>
+    <div class="socials">
+      <img src="../assets/images/icons/about_icons/icons8-facebook-48.png" alt="">
+    </div>
+  </section>
+
+  <section class="footer">
+
+    <section class="footer__heading fade-in">
+      <div class="footer__header">
+        <p>
+          Get In touch with us
+        </p>
+      </div>
+
+      <div class="footer__enquery">
+        <span>General Inquiries</span>
+        <p>gichanemman95@gmail.com</p>
+      </div>
+
+      <button class="footer__button " onclick="openModal()">
+        SEND REQUEST
+      </button>
+    </section>
+
+    <section class="footer__privacy">
+      <p>Privacy Notice</p>
+      <p>
+        Please, be informed, that the intellectual property rights to all the photos, architectures and other materials
+        on
+        this
+        Site belong to Giv architecture studio.
+        You may request permission to use them by contacting us at:  gichanemman95@gmail.com
+      </p>
+      <p class="footer__copyright">
+        COPYRIGHT
+        <script>document.write(new Date().getFullYear());</script>. ALL RIGHTS RESERVED
+      </p>
+    </section>
+  </section>
+  <section class="modal" style="display : none;">
+    <div style="display: flex; justify-content: space-between;">
+      <h2>Dont hesitate to call us</h2>
+      <div onclick="closeModal()" class="close-icon"></div>
+    </div>
+    <div>
+      <label for="">Name</label>
+      <input type="text">
+    </div>
+    <div>
+      <label for="">Email</label>
+      <input type="text">
+    </div>
+    <div>
+      <label for="">Phone</label>
+      <input type="text">
+    </div>
+    <div>
+      <label for="">Your City</label>
+      <input type="text">
+    </div>
+    <div>
+      <label for="">Message</label>
+      <input type="text">
+    </div>
+  </section>
+  <script src="../Js/index/fade-in-letters.js"></script>
+  <script src="../Js/index/hamburger.js"></script>
+  <script src="../Js/index/sliderImages.js"></script>
+  <script src="../Js/index/modal.js"></script>
+  <script src="../Js/index/fade-in-elements.js"></script>
+</body>
+
+
+</html>

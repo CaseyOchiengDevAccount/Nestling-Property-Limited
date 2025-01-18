@@ -1,0 +1,4 @@
+client: private
+location: Kiambu, Kenya
+project type: residential building
+progress: ongoing

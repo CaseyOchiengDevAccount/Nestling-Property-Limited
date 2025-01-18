@@ -1,0 +1,4 @@
+client: private
+location: Syokimau, Machakos
+project type: commercial building
+progress: ongoing

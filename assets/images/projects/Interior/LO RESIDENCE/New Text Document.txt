@@ -1,0 +1,4 @@
+client: private
+location: Bondo, Siaya
+project type: residential interior architecture
+progress: ongoing

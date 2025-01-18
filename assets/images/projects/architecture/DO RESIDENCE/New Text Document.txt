@@ -1,0 +1,4 @@
+client: private
+location: Kisii, Kenya 
+project type: residential building
+progress: ongoing
